@@ -91,7 +91,7 @@ Open the notebooks under Notebooks/ folder to explore EDA and model training.
 ## ✅ Key Results
 
 - **Training Accuracy:** 80%
-- **Testing Accuracy:** 78%
+- **Testing Accuracy:** 81%
 
 **Important features influencing churn include:**
 - Contract type
