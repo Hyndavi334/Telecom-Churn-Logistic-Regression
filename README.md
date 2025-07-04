@@ -10,10 +10,16 @@ This project aims to **predict customer churn for a telecom company** using logi
 
 ## 🗂️ Repository Structure
 Telecom-Churn-Logistic-Regression/
-├── Data/                 # Contains the telecom customer dataset
-├── Notebooks/            # Jupyter notebooks for EDA and modeling
-│   └── eda_process.ipynb
-|   └── Modeling.ipynb
-├── Images/               # Saved static images of visualizations
-├── Requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+│
+├── Data/
+│ └── customer_data.csv # Telecom customer dataset
+│
+├── Notebooks/
+│ ├── eda_process.ipynb # EDA notebook
+│ └── modeling.ipynb # Modeling notebook
+│
+├── Images/
+│ └── *.png # Saved static images of visualizations
+│
+├── Requirements.txt # Python dependencies
+└── README.md # Project documentation
