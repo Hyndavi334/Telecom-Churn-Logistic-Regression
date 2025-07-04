@@ -65,6 +65,24 @@ Open the notebooks under Notebooks/ folder to explore EDA and model training.
 - Correlation heatmap to understand feature relationships
 
 **Example plot:**
+
 ![Churn counts by Gender (Yes vs No)](Images/Churn%20counts%20by%20Gender%20(Yes%20vs%20No).png)
-![]()
+![Distribution of Monthly charges](Images/Distribution%20of%20Monthly%20charges.png)
+
+---
+## 🤖 Model Building
+
+**Algorithm used:** Logistic Regression
+
+**Preprocessing:** 
+- Label Encoding for target variable
+- One Hot Encoding for categorical features
+
+**Evaluation metrics:** 
+- Accuracy
+- Confusion Matrix
+- Classification Report
+
+**Example Confusion Matrix:**
+
 
