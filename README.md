@@ -65,5 +65,6 @@ Open the notebooks under Notebooks/ folder to explore EDA and model training.
 - Correlation heatmap to understand feature relationships
 
 **Example plot:**
+![Churn counts by Gender (Yes vs No)](Images/Churn%20counts%20by%20Gender%20(Yes%20vs%20No).png)
 ![]()
 
