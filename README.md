@@ -85,5 +85,44 @@ Open the notebooks under Notebooks/ folder to explore EDA and model training.
 
 **Example Confusion Matrix:**
 
-![]()
+![Confusion martix](Images/Confusion%20martix.png)
 
+---
+## ✅ Key Results
+
+- **Training Accuracy:** 80%
+- **Testing Accuracy:** 78%
+
+**Important features influencing churn include:**
+- Contract type
+- Monthly charges
+- Tenure
+- Internet service type
+
+---
+## 🔮 Conclusion & Future Work
+
+This project demonstrates the use of Logistic Regression to classify customer churn effectively.
+
+**Future improvements may include:**
+- Implementing ensemble models like Random Forest or XGBoost for better performance
+- Hyperparameter tuning for Logistic Regression
+- Deployment as a web application using Flask or Streamlit
+
+---
+## 📜 License
+
+This project is open source under the [MIT License](LICENSE).
+
+---
+
+## 📧 Contact
+
+**Hyndavi Bejjenki**
+
+- Email: hyndavibejjenki@gmail.com
+- LinkedIn: [Hyndavi Bejjenki](https://www.linkedin.com/in/hyndavibejjenki/)
+
+---
+
+⭐ **If you find this repository helpful, please consider starring it!**
